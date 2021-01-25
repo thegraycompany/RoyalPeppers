@@ -1,0 +1,59 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "*": ["types/*"],
+      "~/*": [
+        "src/*"
+      ],
+      "root/*": [
+        "./*"
+      ]
+    },
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "module": "esnext",
+    "target": "es5",
+    "lib": [
+      "dom",
+      "es2015",
+      "es2016",
+      "es2017",
+      "esnext"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "allowJs": false,
+    "jsx": "react-native",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "skipLibCheck": true,
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "pretty": true,
+    "removeComments": true,
+    "importHelpers": true,
+    "resolveJsonModule": true
+  },
+  "exclude": [
+    "__tests__",
+    "assets",
+    "node_modules",
+    "build",
+    "scripts",
+    "acceptance-tests",
+    "webpack",
+    "jest",
+    "app/**/*.test.tsx"
+  ],
+  "types": [
+    "typePatches"
+  ],
+  "typeRoots": [
+    "node_modules/@types"
+  ]
+}

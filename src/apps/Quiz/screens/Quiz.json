@@ -1,0 +1,86 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "questionNumber": 1,
+        "correctOption": "Mierzoete doorstroming",
+        "options": [
+          "Suikerziekte",
+          "Zoete ziekte",
+          "Mierzoete doorstroming"
+        ],
+        "question": "Diabetes mellitus betekent letterlijk:"
+      },
+      {
+        "questionNumber": 2,
+        "correctOption": "Diabetes type 2",
+        "options": [
+          "Diabetes type 1",
+          "Diabetes type 2",
+          "Diabetes type 1 en 2 komen even vaak voor"
+        ],
+        "question": "Welke vorm van diabetes komt het meest voor?"
+      },
+      {
+        "questionNumber": 3,
+        "correctOption": "Een auto-immuunziekte",
+        "options": [
+          "De meest voorkomende vorm van diabetes in Nederland",
+          "Een auto-immuunziekte",
+          "Een ziekte die te genezen is"
+        ],
+        "question": "Diabetes type 1 is…"
+      },
+      {
+        "questionNumber": 4,
+        "correctOption": "Niet bekend",
+        "options": [
+          "Erfelijkheid",
+          "Een slecht leefpatroon",
+          "Niet bekend"
+        ],
+        "question": "De hoofdoorzaak van diabetes type 2 is:"
+      },
+      {
+        "questionNumber": 5,
+        "correctOption": "Een hormoon",
+        "options": [
+          "Een hormoon",
+          "Een medicijn",
+          "Een voedingsstof"
+        ],
+        "question": "Insuline is:"
+      },
+      {
+        "questionNumber": 6,
+        "correctOption": "4 mmol/l",
+        "options": [
+          "4 mmol/l",
+          "6 mmol/l",
+          "10 mmol/l"
+        ],
+        "question": "Bij een hypoglykemie zijn de waarden lager dan:"
+      },
+      {
+        "questionNumber": 7,
+        "correctOption": "Mensen ouder dan 55 jaar",
+        "options": [
+          "Mensen jonger dan 40 jaar",
+          "Mensen ouder dan 55 jaar",
+          "Mensen ouder dan 75 jaar"
+        ],
+        "question": "Diabetes type 2 komt het meest voor onder:"
+      },
+      {
+        "questionNumber": 8,
+        "correctOption": "Beide",
+        "options": [
+          "Diabetesinstelling",
+          "Hart- en bloedvaten",
+          "Beide"
+          ],
+        "question": "Het mediterrane en laagkoolhydraat voedingspatroon blijkt gunstig te zijn voor:"
+      }
+    ]
+  }
+}
